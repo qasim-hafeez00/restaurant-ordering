@@ -1,0 +1,355 @@
+// Replace the entire KFC_MENU array with this updated version
+export const KFC_MENU = [
+  // Everyday Value
+  {
+    Category: "Everyday Value",
+    "Item Name": "Krunch Burger",
+    "Price (Rs.)": 350,
+    Description: "A value burger with a crispy chicken fillet, spicy mayo and lettuce.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Garlic Mayo Zingeratha",
+    "Price (Rs.)": 420,
+    Description: "Crispy zinger strips wrapped in a soft paratha with a spicy touch.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Zingeratha",
+    "Price (Rs.)": 420,
+    Description: "Crispy zinger strips wrapped in a soft paratha with a spicy touch.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Rice & Spice",
+    "Price (Rs.)": 390,
+    Description: "Flavorful rice with spicy chicken pieces and special KFC spices.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Boneless Strips (3 pcs)",
+    "Price (Rs.)": 440,
+    Description: "3 pieces of tender, crispy boneless chicken strips.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Krunch Burger + Drink",
+    "Price (Rs.)": 410,
+    Description: "Krunch burger served with a regular drink.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Twister",
+    "Price (Rs.)": 440,
+    Description: "Tender chicken strips, tomatoes, lettuce with pepper mayo, wrapped in a tortilla.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Krunch Combo",
+    "Price (Rs.)": 590,
+    Description: "Krunch burger with regular fries and a regular drink.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Krunch Chicken Combo",
+    "Price (Rs.)": 620,
+    Description: "Krunch burger with a piece of chicken and a regular drink.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Chicken & Chips",
+    "Price (Rs.)": 620,
+    Description: "2 pieces of hot and crispy chicken with regular fries.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "3 Pcs Chicken",
+    "Price (Rs.)": 690,
+    Description: "3 pieces of Colonel's signature hot and crispy chicken.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "Twister Combo",
+    "Price (Rs.)": 710,
+    Description: "Twister wrap with regular fries and a regular drink.",
+  },
+  {
+    Category: "Everyday Value",
+    "Item Name": "3 PCS Chicken",
+    "Price (Rs.)": 690,
+    Description: "3 pcs hot and fried chicken.",
+  },
+
+  // Ala-Carte & Combos
+  {
+    Category: "Ala-Carte & Combos",
+    "Item Name": "Zinger Burger",
+    "Price (Rs.)": 600,
+    Description: "Signature spicy chicken fillet, lettuce and mayo in a soft burger bun.",
+  },
+  {
+    Category: "Ala-Carte & Combos",
+    "Item Name": "Zinger Stacker",
+    "Price (Rs.)": 660,
+    Description: "Double chicken fillets with cheese, lettuce and spicy sauce.",
+  },
+  {
+    Category: "Ala-Carte & Combos",
+    "Item Name": "Kentucky Burger",
+    "Price (Rs.)": 660,
+    Description: "Original recipe fillet with special sauce and fresh lettuce.",
+  },
+  {
+    Category: "Ala-Carte & Combos",
+    "Item Name": "Mighty Zinger",
+    "Price (Rs.)": 770,
+    Description: "Our biggest burger with extra large spicy chicken fillet, cheese and special sauce.",
+  },
+  {
+    Category: "Ala-Carte & Combos",
+    "Item Name": "Zinger Combo",
+    "Price (Rs.)": 910,
+    Description: "Zinger burger with regular fries and a regular drink.",
+  },
+  {
+    Category: "Ala-Carte & Combos",
+    "Item Name": "Zinger Stacker Combo",
+    "Price (Rs.)": 950,
+    Description: "Zinger Stacker burger with regular fries and a regular drink.",
+  },
+  {
+    Category: "Ala-Carte & Combos",
+    "Item Name": "Kentucky Burger Combo",
+    "Price (Rs.)": 950,
+    Description: "Kentucky burger with regular fries and a regular drink.",
+  },
+  {
+    Category: "Ala-Carte & Combos",
+    "Item Name": "Mighty Zinger Combo",
+    "Price (Rs.)": 1050,
+    Description: "Mighty Zinger burger with regular fries and a regular drink.",
+  },
+
+  // Signature Boxes
+  {
+    Category: "Signature Boxes",
+    "Item Name": "Crispy Box",
+    "Price (Rs.)": 710,
+    Description: "1 piece of hot & crispy chicken, 1 regular fries, 1 regular drink, and 1 coleslaw.",
+  },
+  {
+    Category: "Signature Boxes",
+    "Item Name": "Boneless Box",
+    "Price (Rs.)": 710,
+    Description: "4 boneless strips, 1 regular fries, 1 regular drink, and 1 coleslaw.",
+  },
+  {
+    Category: "Signature Boxes",
+    "Item Name": "Wow Box",
+    "Price (Rs.)": 1050,
+    Description: "1 Zinger burger, 1 piece of hot & crispy chicken, 1 regular fries, and 1 regular drink.",
+  },
+  {
+    Category: "Signature Boxes",
+    "Item Name": "Crispy Duo Box",
+    "Price (Rs.)": 1350,
+    Description: "2 pieces of hot & crispy chicken, 1 Krunch burger, 1 regular fries, and 1 regular drink.",
+  },
+  {
+    Category: "Signature Boxes",
+    "Item Name": "Xtreme Duo Box",
+    "Price (Rs.)": 1560,
+    Description: "1 Zinger burger, 1 piece of hot & crispy chicken, 1 regular fries, 1 regular drink, and 1 coleslaw.",
+  },
+
+  // Sharing
+  {
+    Category: "Sharing",
+    "Item Name": "Value Bucket",
+    "Price (Rs.)": 2050,
+    Description: "9 pieces of hot & crispy chicken.",
+  },
+  {
+    Category: "Sharing",
+    "Item Name": "Family Festival 1",
+    "Price (Rs.)": 2190,
+    Description: "4 Krunch burgers, 4 pieces of hot & crispy chicken, 2 regular fries, and 1.5L drink.",
+  },
+  {
+    Category: "Sharing",
+    "Item Name": "Family Festival 2",
+    "Price (Rs.)": 2390,
+    Description:
+      "2 Zinger burgers, 2 Krunch burgers, 4 pieces of hot & crispy chicken, 2 regular fries, and 1.5L drink.",
+  },
+  {
+    Category: "Sharing",
+    "Item Name": "Family Festival 3",
+    "Price (Rs.)": 2590,
+    Description: "4 Zinger burgers, 4 pieces of hot & crispy chicken, 2 regular fries, and 1.5L drink.",
+  },
+
+  // Snacks & Beverages
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Dinner Roll",
+    "Price (Rs.)": 50,
+    Description: "Soft and fluffy dinner roll.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Mayo Dip",
+    "Price (Rs.)": 50,
+    Description: "Creamy mayo dip.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Vietnamese Dip",
+    "Price (Rs.)": 50,
+    Description: "Tangy Vietnamese-style dip.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Mineral Water (500 ml)",
+    "Price (Rs.)": 90,
+    Description: "500ml bottled mineral water.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Coleslaw",
+    "Price (Rs.)": 150,
+    Description: "Freshly prepared cabbage and carrots in creamy dressing.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Pepsi Regular (500 ml)",
+    "Price (Rs.)": 180,
+    Description: "500ml Pepsi soft drink.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "7UP Regular",
+    "Price (Rs.)": 180,
+    Description: "500ml 7UP soft drink.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Mirinda Regular",
+    "Price (Rs.)": 180,
+    Description: "500ml Mirinda soft drink.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Mountain Dew Regular",
+    "Price (Rs.)": 180,
+    Description: "500ml Mountain Dew soft drink.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Corn on the Cob",
+    "Price (Rs.)": 290,
+    Description: "Sweet corn brushed with butter.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "1.5L Drink (Pepsi)",
+    "Price (Rs.)": 250,
+    Description: "1.5 liter Pepsi soft drink.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "1 Piece Chicken",
+    "Price (Rs.)": 320,
+    Description: "1 piece of Colonel's signature hot and crispy chicken.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Fries",
+    "Price (Rs.)": 340,
+    Description: "Crispy golden fries, perfectly salted.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Masala Fries",
+    "Price (Rs.)": 360,
+    Description: "Crispy fries tossed with special masala seasoning.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Hot Shots (9 pcs)",
+    "Price (Rs.)": 480,
+    Description: "9 pieces of spicy chicken popcorn.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Fries Bucket (with dip)",
+    "Price (Rs.)": 470,
+    Description: "Large serving of fries with a dipping sauce.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Masala Fries Bucket",
+    "Price (Rs.)": 420,
+    Description: "Large serving of fries tossed with special masala seasoning.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Chicky Meal 1",
+    "Price (Rs.)": 550,
+    Description: "Kids meal with chicken nuggets, small fries, and a drink.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Chicky Meal 2",
+    "Price (Rs.)": 550,
+    Description: "Kids meal with a small Krunch burger, small fries, and a drink.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Plain Nuggets (6 pcs)",
+    "Price (Rs.)": 580,
+    Description: "6 pieces of crispy chicken nuggets.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Spicy Nuggets (6 pcs)",
+    "Price (Rs.)": 580,
+    Description: "6 pieces of spicy chicken nuggets.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Snack Bucket",
+    "Price (Rs.)": 650,
+    Description: "Mix of hot shots, nuggets, and fries.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Buffalo Wings (8 pcs)",
+    "Price (Rs.)": 6400,
+    Description: "8 pieces of chicken wings tossed in spicy buffalo sauce.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Thai Sweet Chilli Wings (8 pcs)",
+    "Price (Rs.)": 640,
+    Description: "8 pieces of chicken wings tossed in Thai sweet chili sauce.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Tangy Masala Wings (8 pcs)",
+    "Price (Rs.)": 640,
+    Description: "8 pieces of chicken wings tossed in tangy masala sauce.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Salsa Sprinkle Wings Bucket (8 pcs)",
+    "Price (Rs.)": 640,
+    Description: "8 pieces of chicken wings with salsa sprinkle seasoning.",
+  },
+  {
+    Category: "Snacks & Beverages",
+    "Item Name": "Hot Wings Bucket (10 pcs)",
+    "Price (Rs.)": 670,
+    Description: "10 pieces of spicy hot wings.",
+  },
+]

@@ -1,0 +1,105 @@
+// Roll Bar menu data
+export const ROLLBAR_MENU = [
+  {
+    Category: "Appetizer",
+    "Item Name": "Chicken N Chips",
+    "Price (Rs.)": 1050,
+    Description: "Chicken Strips Chopped, Fries, with 4 Kind of Sauce",
+  },
+  {
+    Category: "Appetizer",
+    "Item Name": "Chicken Strips",
+    "Price (Rs.)": 880,
+    Description: "3pcs with Honey Mustard Sauce",
+  },
+  {
+    Category: "Appetizer",
+    "Item Name": "Albaik Style Nugget Box",
+    "Price (Rs.)": 450,
+    Description: "6pcs Nuggets, Fries, 2pcs Bun And Garlic Sauce",
+  },
+  {
+    Category: "Appetizer",
+    "Item Name": "Fries",
+    "Price (Rs.)": 350,
+    Description: "Crispy french fries",
+  },
+  {
+    Category: "Lebanese Shawarma",
+    "Item Name": "Shawarma Sageer (Small)",
+    "Price (Rs.)": 540,
+    Description: "Small Lebanese style shawarma",
+  },
+  {
+    Category: "Lebanese Shawarma",
+    "Item Name": "Shawarma Kabeer (Large)",
+    "Price (Rs.)": 690,
+    Description: "Large Lebanese style shawarma",
+  },
+  {
+    Category: "Lebanese Shawarma",
+    "Item Name": "RB Special Shawarma Sageer",
+    "Price (Rs.)": 720,
+    Description: "Small special shawarma with extra toppings",
+  },
+  {
+    Category: "Lebanese Shawarma",
+    "Item Name": "RB Special Shawarma Kabeer",
+    "Price (Rs.)": 770,
+    Description: "Large special shawarma with extra toppings",
+  },
+  {
+    Category: "Lebanese Shawarma",
+    "Item Name": "Shawarma Bite Box",
+    "Price (Rs.)": 1300,
+    Description: "Shawarma bites served in a box",
+  },
+  {
+    Category: "Rolls",
+    "Item Name": "Chicken Tikka Roll",
+    "Price (Rs.)": 370,
+    Description: "Chicken tikka wrapped in your choice of bread",
+  },
+  {
+    Category: "Rolls",
+    "Item Name": "Reshmi Kabab Roll",
+    "Price (Rs.)": 360,
+    Description: "Reshmi kabab wrapped in your choice of bread",
+  },
+  {
+    Category: "Rolls",
+    "Item Name": "Haryali Boti Roll",
+    "Price (Rs.)": 360,
+    Description: "Haryali boti wrapped in your choice of bread",
+  },
+  {
+    Category: "Rolls",
+    "Item Name": "Beef Seekh Kabab Roll",
+    "Price (Rs.)": 360,
+    Description: "Beef seekh kabab wrapped in your choice of bread",
+  },
+  {
+    Category: "Rolls",
+    "Item Name": "Chicken Bihari Roll",
+    "Price (Rs.)": 390,
+    Description: "Chicken bihari wrapped in your choice of bread",
+  },
+  {
+    Category: "Rolls",
+    "Item Name": "Malai Boti Roll",
+    "Price (Rs.)": 360,
+    Description: "Malai boti wrapped in your choice of bread",
+  },
+  {
+    Category: "Rolls",
+    "Item Name": "Mutton Hunzai Roll",
+    "Price (Rs.)": 580,
+    Description: "Mutton hunzai wrapped in your choice of bread",
+  },
+  {
+    Category: "Rolls",
+    "Item Name": "Beef Bihari Roll",
+    "Price (Rs.)": 400,
+    Description: "Beef bihari wrapped in your choice of bread",
+  },
+]

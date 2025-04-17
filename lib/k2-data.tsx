@@ -1,0 +1,153 @@
+// K2 (Ras & Ginger Grill) menu data
+export const K2_MENU = [
+  {
+    Category: "Chowmein",
+    "Item Name": "Chowmein Full",
+    "Price (Rs.)": 510,
+    Description: "Full portion of chicken chowmein.",
+  },
+  {
+    Category: "Chowmein",
+    "Item Name": "Chowmein Half",
+    "Price (Rs.)": 310,
+    Description: "Half portion of chicken chowmein.",
+  },
+  {
+    Category: "Chili Dry",
+    "Item Name": "Chili Dry With Rice Half",
+    "Price (Rs.)": 540,
+    Description: "Half portion of chicken chili dry served with rice.",
+  },
+  {
+    Category: "Chili Dry",
+    "Item Name": "Chili Dry With Rice Full",
+    "Price (Rs.)": 950,
+    Description: "Full portion of chicken chili dry served with rice.",
+  },
+  {
+    Category: "Chili Dry",
+    "Item Name": "Chili Dry With Chowmein Half",
+    "Price (Rs.)": 580,
+    Description: "Half portion of chicken chili dry served with chowmein.",
+  },
+  {
+    Category: "Chili Dry",
+    "Item Name": "Chili Dry With Chowmein Full",
+    "Price (Rs.)": 960,
+    Description: "Full portion of chicken chili dry served with chowmein.",
+  },
+  {
+    Category: "Chili Dry",
+    "Item Name": "Chicken Chili Dry Half",
+    "Price (Rs.)": 460,
+    Description: "Half portion of chicken chili dry.",
+  },
+  {
+    Category: "Chili Dry",
+    "Item Name": "Chicken Chili Dry Full",
+    "Price (Rs.)": 810,
+    Description: "Full portion of chicken chili dry.",
+  },
+  {
+    Category: "Manchurian",
+    "Item Name": "Manchurian With Rice Half",
+    "Price (Rs.)": 310,
+    Description: "Half portion of chicken manchurian served with rice.",
+  },
+  {
+    Category: "Manchurian",
+    "Item Name": "Manchurian With Rice Full",
+    "Price (Rs.)": 510,
+    Description: "Full portion of chicken manchurian served with rice.",
+  },
+  {
+    Category: "Sides",
+    "Item Name": "Drum Sticks",
+    "Price (Rs.)": 160,
+    Description: "Crispy chicken drumsticks.",
+  },
+  {
+    Category: "Momos",
+    "Item Name": "Momos 6PC",
+    "Price (Rs.)": 360,
+    Description: "6 pieces of chicken momos.",
+  },
+  {
+    Category: "Momos",
+    "Item Name": "Momos 12PC",
+    "Price (Rs.)": 710,
+    Description: "12 pieces of chicken momos.",
+  },
+  {
+    Category: "Black Pepper",
+    "Item Name": "Chicken Black Pepper Half",
+    "Price (Rs.)": 350,
+    Description: "Half portion of chicken black pepper.",
+  },
+  {
+    Category: "Black Pepper",
+    "Item Name": "Chicken Black Pepper Full",
+    "Price (Rs.)": 600,
+    Description: "Full portion of chicken black pepper.",
+  },
+  {
+    Category: "Black Pepper",
+    "Item Name": "Chicken Black Pepper Single",
+    "Price (Rs.)": 260,
+    Description: "Single serving of chicken black pepper.",
+  },
+  {
+    Category: "Black Pepper",
+    "Item Name": "Chicken Chowmein + Black Pepper Half",
+    "Price (Rs.)": 360,
+    Description: "Half portion of chicken chowmein with black pepper.",
+  },
+  {
+    Category: "Black Pepper",
+    "Item Name": "Chicken Chowmein + Black Pepper Full",
+    "Price (Rs.)": 610,
+    Description: "Full portion of chicken chowmein with black pepper.",
+  },
+  {
+    Category: "Black Pepper",
+    "Item Name": "Rice + Black Pepper Half",
+    "Price (Rs.)": 310,
+    Description: "Half portion of rice with black pepper chicken.",
+  },
+  {
+    Category: "Black Pepper",
+    "Item Name": "Rice + Black Pepper Full",
+    "Price (Rs.)": 510,
+    Description: "Full portion of rice with black pepper chicken.",
+  },
+  {
+    Category: "Deals",
+    "Item Name": "Deal 2 (Rice, Chowmein, Chili Dry, 500ML)",
+    "Price (Rs.)": 830,
+    Description: "Combo of rice, chowmein, chili dry, and 500ml drink.",
+  },
+  {
+    Category: "Deals",
+    "Item Name": "Deal 3 (Rice, Chowmein, Manchurian, Drumstick)",
+    "Price (Rs.)": 560,
+    Description: "Combo of rice, chowmein, manchurian, and drumstick.",
+  },
+  {
+    Category: "Deals",
+    "Item Name": "Deal 4 (Rice, Chowmein, Manchurian)",
+    "Price (Rs.)": 420,
+    Description: "Combo of rice, chowmein, and manchurian.",
+  },
+]
+
+export const k2Data = {
+  id: "k2_ras_ginger_grill",
+  name: "K2 Ras & Ginger Grill",
+  description: "Chinese and Tibetan cuisine with a Pakistani twist",
+  logo: "/images/k2-logo.png",
+  heroImage: "/placeholder.svg?height=300&width=800",
+  rating: 4.4,
+  reviews: 180,
+  categories: ["Chinese", "Tibetan", "Asian"],
+  menu: K2_MENU,
+}
